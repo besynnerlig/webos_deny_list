@@ -4,11 +4,11 @@
 # last updated:   2022-10-31 16:14
 # homepage:       https://github.com/besynnerlig/webos_deny_list/
 
-127.0.0.1 cdpbeacon.lgtvcommon.com
-127.0.0.1 cdpsvc.lgtvcommon.com
-127.0.0.1 homeprv.lgtvcommon.com
-127.0.0.1 nudge.lgtvcommon.com
-127.0.0.1 rdl.lgtvcommon.com
-127.0.0.1 recommend.lgtvcommon.com
-127.0.0.1 lgsmartad.com
-127.0.0.1 service.lgtvcommon.com
+cdpbeacon.lgtvcommon.com
+cdpsvc.lgtvcommon.com
+homeprv.lgtvcommon.com
+nudge.lgtvcommon.com
+rdl.lgtvcommon.com
+recommend.lgtvcommon.com
+lgsmartad.com
+service.lgtvcommon.com
