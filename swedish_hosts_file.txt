@@ -1,0 +1,15 @@
+# Aims to get rid of Webos ads
+# ----
+# title:          Swedish Webos Deny List
+# last updated:   2022-12-31 12:50
+# homepage:       https://github.com/besynnerlig/webos_deny_list/
+
+eic.rdl.lgtvcommon.com
+eicrecommend.lgtvcommon.com
+eic.nudge.lgtvcommon.com
+eic.homeprv.lgtvcommon.com
+se.info.lgsmartad.com
+se-info-lgsmartad-com.aws-prd.net
+se.ad.lgsmartad.com
+se-ad-lgsmartad-com.aws-prd.net
+eic.service.lgtvcommon.com
