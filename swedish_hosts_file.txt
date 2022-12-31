@@ -5,7 +5,7 @@
 # homepage:       https://github.com/besynnerlig/webos_deny_list/
 
 eic.rdl.lgtvcommon.com
-eicrecommend.lgtvcommon.com
+eic.recommend.lgtvcommon.com
 eic.nudge.lgtvcommon.com
 eic.homeprv.lgtvcommon.com
 se.info.lgsmartad.com
