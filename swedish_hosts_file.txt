@@ -13,3 +13,4 @@ se-info-lgsmartad-com.aws-prd.net
 se.ad.lgsmartad.com
 se-ad-lgsmartad-com.aws-prd.net
 eic.service.lgtvcommon.com
+kalle.service.lgtvcommon.com
